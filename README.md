@@ -1,4 +1,4 @@
-# About Me:
+# 👨‍💻 About Me:
 🌱I'm currently learning Python, C and Dart (Flutter)<br>👨‍💻I'm studying Electric Electronic Engineering on Fatih Sultan Vakıf Üniversitesi<br>📫How to reach me, mertpalaoglu1@gmail.com
 
 
