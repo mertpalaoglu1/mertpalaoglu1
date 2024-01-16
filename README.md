@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🌱I'm currently learning Python, C and Dart (Flutter) and now Kotlin <br>🎓I'm studying Electric Electronic Engineering on Fatih Sultan Mehmet Foundation University <br>📫How to reach me, mertpalaoglu1@gmail.com
+🌱I'm currently learning Python, C and Dart (Flutter) and now Kotlin <br>🎓I'm studying Electric Electronic Engineering on Fatih Sultan Mehmet Vakif University <br>📫How to reach me, mertpalaoglu1@gmail.com
 
 
 ## 🌐 Socials:
