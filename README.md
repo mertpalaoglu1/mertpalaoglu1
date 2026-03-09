@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Mert
-
 🔭 **I’m currently working on:** Embedded Software & IoT. Developing a LoRa based IoT vehicle module prototype for my graduation project and working on custom peripheral libraries.
 🌱 **I’m currently focused on:** Zephyr RTOS, ESP32, nRF54 series, and exploring Edge AI / TinyML.
 ⚙️ **Tech Stack:** C/C++, Python, Flutter (Dart), Kotlin.
